@@ -1,0 +1,292 @@
+
+22-08-2022 11:00:09 [dcalasan.wppsbootcamp.com][info] Parent plugin start installation!
+22-08-2022 11:00:09 [dcalasan.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+22-08-2022 11:00:09 [dcalasan.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+22-08-2022 11:00:16 [dcalasan.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/dcalasan/public_html/portfolio/wp-content/uploads/wio_backup)
+-------------------------------
+22-08-2022 11:00:31 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:31 [dcalasan.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/dcalasan/public_html/portfolio/wp-content/uploads/wio_backup/2022/08)
+22-08-2022 11:00:31 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/moritz-mentges-5MlBMYDsGBY-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:32 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:32 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/moritz-mentges-5MlBMYDsGBY-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:32 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:32 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/moritz-mentges-5MlBMYDsGBY-unsplash-300x200.jpg) to a remote server (server_1).
+22-08-2022 11:00:32 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:32 [dcalasan.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;44&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:307045,&quot;final_size&quot;:134088,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:289723,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166032}
+22-08-2022 11:00:32 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+22-08-2022 11:00:32 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:33 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/webfactory-ltd-MINfsRivuyg-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:33 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:33 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/webfactory-ltd-MINfsRivuyg-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:33 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:33 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/webfactory-ltd-MINfsRivuyg-unsplash-300x200.jpg) to a remote server (server_1).
+22-08-2022 11:00:33 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:33 [dcalasan.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;48&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:265381,&quot;final_size&quot;:101859,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:254064,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166033}
+22-08-2022 11:00:33 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+22-08-2022 11:00:34 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:34 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/linkedin-slika.jpg) to a remote server (server_1).
+22-08-2022 11:00:34 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:34 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/linkedin-slika-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:34 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:34 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/linkedin-slika-229x300.jpg) to a remote server (server_1).
+22-08-2022 11:00:34 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:34 [dcalasan.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;102&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:90221,&quot;final_size&quot;:74295,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:70871,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166034}
+22-08-2022 11:00:34 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+22-08-2022 11:00:35 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:35 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/nisonco-pr-and-seo-yIRdUr6hIvQ-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:35 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:35 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/nisonco-pr-and-seo-yIRdUr6hIvQ-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:35 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:36 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/nisonco-pr-and-seo-yIRdUr6hIvQ-unsplash-300x200.jpg) to a remote server (server_1).
+22-08-2022 11:00:36 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:36 [dcalasan.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;107&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:396880,&quot;final_size&quot;:123718,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:386729,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166036}
+22-08-2022 11:00:36 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+22-08-2022 11:00:36 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:36 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/sigmund-B-x4VaIriRc-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:37 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:37 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/sigmund-B-x4VaIriRc-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:37 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:37 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/sigmund-B-x4VaIriRc-unsplash-300x200.jpg) to a remote server (server_1).
+22-08-2022 11:00:37 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:37 [dcalasan.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;108&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:392905,&quot;final_size&quot;:166185,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:373505,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166037}
+22-08-2022 11:00:37 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+22-08-2022 11:00:37 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:38 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/jonny-gios-SqjhKY9877M-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:38 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:38 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/jonny-gios-SqjhKY9877M-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:38 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:38 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/jonny-gios-SqjhKY9877M-unsplash-200x300.jpg) to a remote server (server_1).
+22-08-2022 11:00:38 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:38 [dcalasan.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;163&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:775588,&quot;final_size&quot;:332231,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:752839,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166038}
+22-08-2022 11:00:38 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+22-08-2022 11:00:39 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:39 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/trpkovic.jpg) to a remote server (server_1).
+22-08-2022 11:00:39 [dcalasan.wppsbootcamp.com][error] Error to optimize attachment (ID: #175). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1600x718
+	-&gt; Relative path: 2022/08/trpkovic.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x135, MIME type: image/jpeg
+		-&gt; Type: large, size: 1024x460, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x345, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1536x690, MIME type: image/jpeg
+
+22-08-2022 11:00:39 [dcalasan.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;175&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166039}
+22-08-2022 11:00:39 [dcalasan.wppsbootcamp.com][error] Failed to process (url: https://dcalasan.wppsbootcamp.com/portfolio/wp-content/uploads/2022/08/trpkovic.jpg, path: /home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/trpkovic.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+22-08-2022 11:00:39 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+22-08-2022 11:00:39 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:39 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/digitel.jpg) to a remote server (server_1).
+22-08-2022 11:00:40 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:40 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/digitel-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:40 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/digitel-300x131.jpg) to a remote server (server_1).
+22-08-2022 11:00:40 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:40 [dcalasan.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;185&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:217806,&quot;final_size&quot;:123171,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:207894,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166040}
+22-08-2022 11:00:40 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+22-08-2022 11:00:40 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:40 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/blue_puzzle_anim_300_wht.gif) to a remote server (server_1).
+22-08-2022 11:00:41 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:41 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/blue_puzzle_anim_300_wht-150x150.gif) to a remote server (server_1).
+22-08-2022 11:00:41 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:41 [dcalasan.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;228&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:328977,&quot;final_size&quot;:328226,&quot;original_mime_type&quot;:&quot;image\/gif&quot;,&quot;final_mime_type&quot;:&quot;image\/gif&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:320669,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166041}
+22-08-2022 11:00:41 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+22-08-2022 11:00:42 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:42 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/miti-MRb1aJIwCJs-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:42 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:42 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/miti-MRb1aJIwCJs-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:43 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:43 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/miti-MRb1aJIwCJs-unsplash-300x278.jpg) to a remote server (server_1).
+22-08-2022 11:00:43 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:43 [dcalasan.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;244&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:452159,&quot;final_size&quot;:216333,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:430451,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166043}
+22-08-2022 11:00:43 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+22-08-2022 11:00:43 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:43 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/ross-sneddon-sWlDOWk0Jp8-unsplash1-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:44 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:44 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/ross-sneddon-sWlDOWk0Jp8-unsplash1-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:44 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:44 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/ross-sneddon-sWlDOWk0Jp8-unsplash1-300x200.jpg) to a remote server (server_1).
+22-08-2022 11:00:44 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:44 [dcalasan.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;407&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:290555,&quot;final_size&quot;:144879,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:273144,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166044}
+22-08-2022 11:00:44 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+22-08-2022 11:00:45 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:45 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/robin-pierre-dPgPoiUIiXk-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:45 [dcalasan.wppsbootcamp.com][error] Error to optimize attachment (ID: #408). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1600x1067
+	-&gt; Relative path: 2022/08/robin-pierre-dPgPoiUIiXk-unsplash-scaled.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x200, MIME type: image/jpeg
+		-&gt; Type: large, size: 1024x683, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x512, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1536x1024, MIME type: image/jpeg
+		-&gt; Type: 2048x2048, size: 2048x1365, MIME type: image/jpeg
+
+22-08-2022 11:00:45 [dcalasan.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;408&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166045}
+22-08-2022 11:00:45 [dcalasan.wppsbootcamp.com][error] Failed to process (url: https://dcalasan.wppsbootcamp.com/portfolio/wp-content/uploads/2022/08/robin-pierre-dPgPoiUIiXk-unsplash-scaled.jpg, path: /home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/robin-pierre-dPgPoiUIiXk-unsplash-scaled.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+22-08-2022 11:00:45 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+22-08-2022 11:00:46 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:46 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/kenny-eliason-3GZNPBLImWc-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:46 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:46 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/kenny-eliason-3GZNPBLImWc-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:46 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:46 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/kenny-eliason-3GZNPBLImWc-unsplash-300x200.jpg) to a remote server (server_1).
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;420&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:364451,&quot;final_size&quot;:136432,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:349618,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166047}
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/images.png) to a remote server (server_1).
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/images-150x150.png) to a remote server (server_1).
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;424&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:20478,&quot;final_size&quot;:11639,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:5390,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166047}
+22-08-2022 11:00:47 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+22-08-2022 11:00:48 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 11:00:48 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/markus-spiske-bMvuh0YQQ68-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 11:00:48 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:49 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/markus-spiske-bMvuh0YQQ68-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 11:00:49 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:49 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/markus-spiske-bMvuh0YQQ68-unsplash-300x200.jpg) to a remote server (server_1).
+22-08-2022 11:00:49 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 11:00:49 [dcalasan.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;425&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:192363,&quot;final_size&quot;:84034,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:180835,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661166049}
+22-08-2022 11:00:49 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+22-08-2022 11:04:30 [dcalasan.wppsbootcamp.com][info] Parent plugin start deactivation!
+22-08-2022 11:04:30 [dcalasan.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
+22-08-2022 12:03:40 [dcalasan.wppsbootcamp.com][info] Parent plugin start installation!
+22-08-2022 12:03:40 [dcalasan.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+22-08-2022 12:03:40 [dcalasan.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+22-08-2022 12:03:50 [dcalasan.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/dcalasan/public_html/portfolio/wp-content/uploads/wio_backup)
+-------------------------------
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/dcalasan/public_html/portfolio/wp-content/uploads/wio_backup/2022/08)
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/linkedin-slika.jpg) to a remote server (server_1).
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/linkedin-slika-150x150.jpg) to a remote server (server_1).
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/linkedin-slika-229x300.jpg) to a remote server (server_1).
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;102&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:74295,&quot;final_size&quot;:74295,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:55782,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172275}
+22-08-2022 12:44:35 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+22-08-2022 12:44:36 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:36 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/jonny-gios-SqjhKY9877M-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 12:44:36 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:37 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/jonny-gios-SqjhKY9877M-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 12:44:37 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:37 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/jonny-gios-SqjhKY9877M-unsplash-200x300.jpg) to a remote server (server_1).
+22-08-2022 12:44:37 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:37 [dcalasan.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;163&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:332231,&quot;final_size&quot;:332231,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:310636,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172277}
+22-08-2022 12:44:37 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+22-08-2022 12:44:37 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:37 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/blue_puzzle_anim_300_wht.gif) to a remote server (server_1).
+22-08-2022 12:44:37 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:38 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/blue_puzzle_anim_300_wht-150x150.gif) to a remote server (server_1).
+22-08-2022 12:44:38 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:38 [dcalasan.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;228&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:328977,&quot;final_size&quot;:328226,&quot;original_mime_type&quot;:&quot;image\/gif&quot;,&quot;final_mime_type&quot;:&quot;image\/gif&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:320669,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172278}
+22-08-2022 12:44:38 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+22-08-2022 12:44:38 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:38 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/miti-MRb1aJIwCJs-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 12:44:39 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:39 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/miti-MRb1aJIwCJs-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 12:44:39 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:39 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/miti-MRb1aJIwCJs-unsplash-300x278.jpg) to a remote server (server_1).
+22-08-2022 12:44:39 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:39 [dcalasan.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;244&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:216333,&quot;final_size&quot;:216333,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:195661,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172279}
+22-08-2022 12:44:39 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+22-08-2022 12:44:40 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:40 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/ross-sneddon-sWlDOWk0Jp8-unsplash1-scaled.jpg) to a remote server (server_1).
+22-08-2022 12:44:40 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:40 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/ross-sneddon-sWlDOWk0Jp8-unsplash1-150x150.jpg) to a remote server (server_1).
+22-08-2022 12:44:40 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:40 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/ross-sneddon-sWlDOWk0Jp8-unsplash1-300x200.jpg) to a remote server (server_1).
+22-08-2022 12:44:40 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:40 [dcalasan.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;407&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:144879,&quot;final_size&quot;:144879,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:128248,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172280}
+22-08-2022 12:44:40 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+22-08-2022 12:44:41 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:41 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/robin-pierre-dPgPoiUIiXk-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 12:44:41 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:41 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/robin-pierre-dPgPoiUIiXk-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 12:44:42 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:42 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/robin-pierre-dPgPoiUIiXk-unsplash-300x200.jpg) to a remote server (server_1).
+22-08-2022 12:44:42 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:42 [dcalasan.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;408&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:195327,&quot;final_size&quot;:181347,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:174709,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172282}
+22-08-2022 12:44:42 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+22-08-2022 12:44:42 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:42 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/kenny-eliason-3GZNPBLImWc-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 12:44:42 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:43 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/kenny-eliason-3GZNPBLImWc-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 12:44:43 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:43 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/kenny-eliason-3GZNPBLImWc-unsplash-300x200.jpg) to a remote server (server_1).
+22-08-2022 12:44:43 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:43 [dcalasan.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;420&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:136432,&quot;final_size&quot;:136432,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:122314,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172283}
+22-08-2022 12:44:43 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+22-08-2022 12:44:43 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:43 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/markus-spiske-bMvuh0YQQ68-unsplash-scaled.jpg) to a remote server (server_1).
+22-08-2022 12:44:43 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:44 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/markus-spiske-bMvuh0YQQ68-unsplash-150x150.jpg) to a remote server (server_1).
+22-08-2022 12:44:44 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:44 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/markus-spiske-bMvuh0YQQ68-unsplash-300x200.jpg) to a remote server (server_1).
+22-08-2022 12:44:44 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:44 [dcalasan.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;425&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:84034,&quot;final_size&quot;:84034,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:73192,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172284}
+22-08-2022 12:44:44 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+22-08-2022 12:44:44 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:44 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/Pekara-Trpkovic-–-Just-another-WordPress-site.png) to a remote server (server_1).
+22-08-2022 12:44:46 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:47 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/Pekara-Trpkovic-–-Just-another-WordPress-site-150x150.png) to a remote server (server_1).
+22-08-2022 12:44:47 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:47 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/Pekara-Trpkovic-–-Just-another-WordPress-site-300x300.png) to a remote server (server_1).
+22-08-2022 12:44:47 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:47 [dcalasan.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;448&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1303359,&quot;final_size&quot;:466085,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:1165010,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172287}
+22-08-2022 12:44:47 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+22-08-2022 12:44:48 [dcalasan.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+22-08-2022 12:44:48 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/Digitel-–-Just-another-WordPress-site.png) to a remote server (server_1).
+22-08-2022 12:44:49 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:50 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/Digitel-–-Just-another-WordPress-site-150x150.png) to a remote server (server_1).
+22-08-2022 12:44:50 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:50 [dcalasan.wppsbootcamp.com][info] Preparing to upload a file (/home/dcalasan/public_html/portfolio/wp-content/uploads/2022/08/Digitel-–-Just-another-WordPress-site-300x300.png) to a remote server (server_1).
+22-08-2022 12:44:50 [dcalasan.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+22-08-2022 12:44:50 [dcalasan.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;452&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1099240,&quot;final_size&quot;:408958,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:963170,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661172290}
+22-08-2022 12:44:50 [dcalasan.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+22-08-2022 12:52:53 [dcalasan.wppsbootcamp.com][info] Parent plugin start deactivation!
+22-08-2022 12:52:53 [dcalasan.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
+22-08-2022 12:54:35 [dcalasan.wppsbootcamp.com][info] Parent plugin start deactivation!
+22-08-2022 12:54:35 [dcalasan.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
