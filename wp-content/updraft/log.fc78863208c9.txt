@@ -1,0 +1,315 @@
+0000.000 (0) Opened log file at time: Fri, 16 Sep 2022 12:26:05 +0000 on https://dcalasan.wppsbootcamp.com/digitel
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.18 WP: 6.0.2 PHP: 8.0.23 (fpm-fcgi, Linux 190.62.205.92.host.secureserver.net 3.10.0-1160.76.1.el7.x86_64 #1 SMP Wed Aug 10 16:21:17 UTC 2022 x86_64) MySQL: 5.7.39 (max packet size=268435456) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 65.3M | 68M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.033 (0) Free space on disk containing Updraft's temporary directory: 279173.1 MB
+0000.034 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: manual)
+0000.035 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.037 (0) Requesting semaphore lock (f) (apparently via scheduler: last_scheduled_action_called_at=1663080914, seconds_ago=250251)
+0000.039 (0) Set semaphore last lock (f) time to 2022-09-16 12:26:05
+0000.039 (0) Semaphore lock (f) complete
+0000.042 (0) Backup run: resumption=0, nonce=fc78863208c9, file_nonce=fc78863208c9 begun at=1663331165 (0s ago), job type=backup
+0000.043 (0) Scheduling a resumption (1) after 300 seconds (1663331465) in case this run gets aborted
+0000.052 (0) Checking if we have a zip executable available
+0000.052 (0) Testing: /usr/bin/zip
+0000.059 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.060 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.061 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.062 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.063 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.069 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.070 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.075 (0) Working binary zip found: /usr/bin/zip
+0000.076 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.077 (0) Creation of backups of directories: beginning
+0000.079 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.285 (0) Total entities for the zip file: 2891 directories, 10475 files (0 skipped as non-modified), 136.3 MB
+0000.296 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.298 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.299 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.301 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.302 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.304 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.305 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.307 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.308 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.310 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.311 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (6.4 MB, 10475 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0000.710 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: size is now: 2.70 MB
+0000.714 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1100 files added (on-disk size: 2714.5 KB)
+0000.715 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1200 files added (on-disk size: 2714.5 KB)
+0000.717 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1300 files added (on-disk size: 2714.5 KB)
+0000.718 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1400 files added (on-disk size: 2714.5 KB)
+0000.720 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1500 files added (on-disk size: 2714.5 KB)
+0000.722 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1600 files added (on-disk size: 2714.5 KB)
+0000.723 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1700 files added (on-disk size: 2714.5 KB)
+0000.725 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1800 files added (on-disk size: 2714.5 KB)
+0000.726 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 1900 files added (on-disk size: 2714.5 KB)
+0000.728 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2000 files added (on-disk size: 2714.5 KB)
+0000.729 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.7 MB, 10475 files batched, 1001 (2002) added so far); re-opening (prior size: 2714.5 KB)
+0001.256 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: size is now: 4.80 MB
+0001.261 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2100 files added (on-disk size: 4926.9 KB)
+0001.262 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2200 files added (on-disk size: 4926.9 KB)
+0001.264 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2300 files added (on-disk size: 4926.9 KB)
+0001.265 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2400 files added (on-disk size: 4926.9 KB)
+0001.266 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2500 files added (on-disk size: 4926.9 KB)
+0001.268 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2600 files added (on-disk size: 4926.9 KB)
+0001.269 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2700 files added (on-disk size: 4926.9 KB)
+0001.271 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2800 files added (on-disk size: 4926.9 KB)
+0001.272 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 2900 files added (on-disk size: 4926.9 KB)
+0001.274 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3000 files added (on-disk size: 4926.9 KB)
+0001.275 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.7 MB, 10475 files batched, 1001 (3003) added so far); re-opening (prior size: 4926.9 KB)
+0001.832 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: size is now: 9.80 MB
+0001.837 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3100 files added (on-disk size: 10048.6 KB)
+0001.838 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3200 files added (on-disk size: 10048.6 KB)
+0001.840 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3300 files added (on-disk size: 10048.6 KB)
+0001.841 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3400 files added (on-disk size: 10048.6 KB)
+0001.843 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3500 files added (on-disk size: 10048.6 KB)
+0001.844 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3600 files added (on-disk size: 10048.6 KB)
+0001.845 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3700 files added (on-disk size: 10048.6 KB)
+0001.847 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3800 files added (on-disk size: 10048.6 KB)
+0001.848 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 3900 files added (on-disk size: 10048.6 KB)
+0001.850 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4000 files added (on-disk size: 10048.6 KB)
+0001.850 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (23.7 MB, 10475 files batched, 1001 (4004) added so far); re-opening (prior size: 10048.6 KB)
+0002.732 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: size is now: 16.30 MB
+0002.737 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4100 files added (on-disk size: 16689.7 KB)
+0002.738 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4200 files added (on-disk size: 16689.7 KB)
+0002.740 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4300 files added (on-disk size: 16689.7 KB)
+0002.742 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4400 files added (on-disk size: 16689.7 KB)
+0002.743 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4500 files added (on-disk size: 16689.7 KB)
+0002.745 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4600 files added (on-disk size: 16689.7 KB)
+0002.747 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4700 files added (on-disk size: 16689.7 KB)
+0002.748 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4800 files added (on-disk size: 16689.7 KB)
+0002.750 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 4900 files added (on-disk size: 16689.7 KB)
+0002.751 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5000 files added (on-disk size: 16689.7 KB)
+0002.752 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (6.8 MB, 10475 files batched, 1001 (5005) added so far); re-opening (prior size: 16689.7 KB)
+0003.194 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5100 files added (on-disk size: 18772.5 KB)
+0003.195 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5200 files added (on-disk size: 18772.5 KB)
+0003.197 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5300 files added (on-disk size: 18772.5 KB)
+0003.199 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5400 files added (on-disk size: 18772.5 KB)
+0003.200 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5500 files added (on-disk size: 18772.5 KB)
+0003.202 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5600 files added (on-disk size: 18772.5 KB)
+0003.203 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 10475 files batched, 652 (5657) added so far); re-opening (prior size: 18772.5 KB)
+0004.163 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: size is now: 25.30 MB
+0004.167 (0) A useful amount of data was added after this amount of zip processing: 2 s (normalised: 2 s, rate: 13086 KB/s)
+0004.169 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.9580230712891, normalised_time=1.9562894226236, max_time=4.1679511070251, data points known=1, old_max_bytes=26214400, new_max_bytes=80400373)
+0004.171 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5700 files added (on-disk size: 25919.7 KB)
+0004.172 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5800 files added (on-disk size: 25919.7 KB)
+0004.174 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 5900 files added (on-disk size: 25919.7 KB)
+0004.175 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6000 files added (on-disk size: 25919.7 KB)
+0004.177 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6100 files added (on-disk size: 25919.7 KB)
+0004.179 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6200 files added (on-disk size: 25919.7 KB)
+0004.180 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6300 files added (on-disk size: 25919.7 KB)
+0004.182 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6400 files added (on-disk size: 25919.7 KB)
+0004.183 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6500 files added (on-disk size: 25919.7 KB)
+0004.185 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6600 files added (on-disk size: 25919.7 KB)
+0004.186 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18.5 MB, 10475 files batched, 1001 (6658) added so far); re-opening (prior size: 25919.7 KB)
+0004.763 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: size is now: 30.60 MB
+0004.766 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6700 files added (on-disk size: 31307.6 KB)
+0004.767 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6800 files added (on-disk size: 31307.6 KB)
+0004.769 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 6900 files added (on-disk size: 31307.6 KB)
+0004.771 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7000 files added (on-disk size: 31307.6 KB)
+0004.772 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7100 files added (on-disk size: 31307.6 KB)
+0004.774 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7200 files added (on-disk size: 31307.6 KB)
+0004.776 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7300 files added (on-disk size: 31307.6 KB)
+0004.777 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7400 files added (on-disk size: 31307.6 KB)
+0004.779 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7500 files added (on-disk size: 31307.6 KB)
+0004.780 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7600 files added (on-disk size: 31307.6 KB)
+0004.781 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.9 MB, 10475 files batched, 1001 (7659) added so far); re-opening (prior size: 31307.6 KB)
+0005.242 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7700 files added (on-disk size: 35173.1 KB)
+0005.244 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7800 files added (on-disk size: 35173.1 KB)
+0005.246 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 7900 files added (on-disk size: 35173.1 KB)
+0005.247 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8000 files added (on-disk size: 35173.1 KB)
+0005.249 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8100 files added (on-disk size: 35173.1 KB)
+0005.251 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8200 files added (on-disk size: 35173.1 KB)
+0005.252 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8300 files added (on-disk size: 35173.1 KB)
+0005.254 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8400 files added (on-disk size: 35173.1 KB)
+0005.256 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8500 files added (on-disk size: 35173.1 KB)
+0005.257 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8600 files added (on-disk size: 35173.1 KB)
+0005.258 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (2 MB, 10475 files batched, 1001 (8660) added so far); re-opening (prior size: 35173.1 KB)
+0005.439 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8700 files added (on-disk size: 36321.2 KB)
+0005.440 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8800 files added (on-disk size: 36321.2 KB)
+0005.442 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 8900 files added (on-disk size: 36321.2 KB)
+0005.444 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9000 files added (on-disk size: 36321.2 KB)
+0005.445 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9100 files added (on-disk size: 36321.2 KB)
+0005.447 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9200 files added (on-disk size: 36321.2 KB)
+0005.448 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9300 files added (on-disk size: 36321.2 KB)
+0005.450 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9400 files added (on-disk size: 36321.2 KB)
+0005.451 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9500 files added (on-disk size: 36321.2 KB)
+0005.453 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9600 files added (on-disk size: 36321.2 KB)
+0005.454 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (5.9 MB, 10475 files batched, 1001 (9661) added so far); re-opening (prior size: 36321.2 KB)
+0005.720 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9700 files added (on-disk size: 38461.3 KB)
+0005.722 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9800 files added (on-disk size: 38461.3 KB)
+0005.724 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 9900 files added (on-disk size: 38461.3 KB)
+0005.725 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 10000 files added (on-disk size: 38461.3 KB)
+0005.728 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 10100 files added (on-disk size: 38461.3 KB)
+0005.729 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 10200 files added (on-disk size: 38461.3 KB)
+0005.731 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 10300 files added (on-disk size: 38461.3 KB)
+0005.733 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.tmp: 10400 files added (on-disk size: 38461.3 KB)
+0006.036 (0) Creating zip file manifest (backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.list-temp.tmp)
+0006.049 (0) Successfully created zip file manifest (size: 979691)
+0006.363 (0) Created plugins zip (0) - 39675.7 KB in 6.3 s (6345.1 KB/s) (sha1: fcd9baf7fe63fa390018bd575979994cafb1e3ca, sha256: 81ce24e635973b617be761fea328eeb1a532331f47f86f02d7dc0d23296beff1)
+0006.372 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0006.372 (0) No remote despatch: user chose no remote backup service
+0006.373 (0) Recording as successfully uploaded: backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip
+0006.374 (0) Deleting zip manifest (backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip.list.tmp)
+0006.376 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0006.377 (0) Number of backup sets in history: 4; groups (db): 1
+0006.378 (0) Examining (for databases) backup set with group_id=0, nonce=3f777cd1ce46, datestamp=1663080914 (Sep 13 2022 14:55:14)
+0006.378 (0) Examining (for databases) backup set with group_id=0, nonce=419366ab037a, datestamp=1662134291 (Sep 02 2022 15:58:11)
+0006.378 (0) Examining (for databases) backup set with group_id=0, nonce=4727a85ec17d, datestamp=1661515859 (Aug 26 2022 12:10:59)
+0006.378 (0) Examining (for databases) backup set with group_id=0, nonce=578036189e69, datestamp=1661451290 (Aug 25 2022 18:14:50)
+0006.378 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0006.379 (0) Number of backup sets in history: 4; groups (files): 1
+0006.379 (0) Examining (for files) backup set with nonce=3f777cd1ce46, datestamp=1663080914 (Sep 13 2022 14:55:14)
+0006.379 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0006.380 (0) Examining (for files) backup set with nonce=419366ab037a, datestamp=1662134291 (Sep 02 2022 15:58:11)
+0006.380 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0006.380 (0) Examining (for files) backup set with nonce=4727a85ec17d, datestamp=1661515859 (Aug 26 2022 12:10:59)
+0006.380 (0) plugins: over retain limit (2); will delete this file entity
+0006.380 (0) themes: over retain limit (2); will delete this file entity
+0006.380 (0) uploads: over retain limit (2); will delete this file entity
+0006.380 (0) others: over retain limit (2); will delete this file entity
+0006.380 (0) Delete file: backup_2022-08-26-1210_Digitel_4727a85ec17d-plugins.zip, service=none
+0006.381 (0) Deleting local copy (backup_2022-08-26-1210_Digitel_4727a85ec17d-plugins.zip)
+0006.382 (0) Delete file: backup_2022-08-26-1210_Digitel_4727a85ec17d-themes.zip, service=none
+0006.383 (0) Deleting local copy (backup_2022-08-26-1210_Digitel_4727a85ec17d-themes.zip)
+0006.384 (0) Delete file: backup_2022-08-26-1210_Digitel_4727a85ec17d-uploads.zip, service=none
+0006.385 (0) Deleting local copy (backup_2022-08-26-1210_Digitel_4727a85ec17d-uploads.zip)
+0006.385 (0) Delete file: backup_2022-08-26-1210_Digitel_4727a85ec17d-others.zip, service=none
+0006.386 (0) Deleting local copy (backup_2022-08-26-1210_Digitel_4727a85ec17d-others.zip)
+0006.388 (0) This backup set is now empty; will remove from history
+0006.388 (0) Deleting log file (log.4727a85ec17d.txt)
+0006.389 (0) Examining (for files) backup set with nonce=578036189e69, datestamp=1661451290 (Aug 25 2022 18:14:50)
+0006.389 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0006.389 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0006.394 (0) Beginning creation of dump of themes (split every: 400 MB)
+0006.446 (0) Total entities for the zip file: 368 directories, 1064 files (0 skipped as non-modified), 35.5 MB
+0006.449 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.451 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0006.452 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0006.454 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0006.455 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0006.457 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0006.458 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0006.460 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0006.461 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0006.463 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0006.464 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (34.3 MB, 1064 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0008.489 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.tmp: size is now: 15.40 MB
+0008.558 (0) Creating zip file manifest (backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.list-temp.tmp)
+0008.560 (0) Successfully created zip file manifest (size: 86463)
+0008.688 (0) Created themes zip (0) - 16249.2 KB in 2.3 s (7185.2 KB/s) (sha1: c8a47e89d8e9ecc49edaac6e17b51315c480071c, sha256: addea70bdc4e5e765056d7497c3dad0a06da04eabeac8c9a3e360092005e8972)
+0008.692 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0008.692 (0) No remote despatch: user chose no remote backup service
+0008.693 (0) Recording as successfully uploaded: backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip
+0008.695 (0) Deleting zip manifest (backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip.list.tmp)
+0008.696 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0008.697 (0) Number of backup sets in history: 3; groups (db): 1
+0008.698 (0) Examining (for databases) backup set with group_id=0, nonce=3f777cd1ce46, datestamp=1663080914 (Sep 13 2022 14:55:14)
+0008.698 (0) Examining (for databases) backup set with group_id=0, nonce=419366ab037a, datestamp=1662134291 (Sep 02 2022 15:58:11)
+0008.698 (0) Examining (for databases) backup set with group_id=0, nonce=578036189e69, datestamp=1661451290 (Aug 25 2022 18:14:50)
+0008.698 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0008.699 (0) Number of backup sets in history: 3; groups (files): 1
+0008.699 (0) Examining (for files) backup set with nonce=3f777cd1ce46, datestamp=1663080914 (Sep 13 2022 14:55:14)
+0008.699 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0008.700 (0) Examining (for files) backup set with nonce=419366ab037a, datestamp=1662134291 (Sep 02 2022 15:58:11)
+0008.700 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0008.700 (0) Examining (for files) backup set with nonce=578036189e69, datestamp=1661451290 (Aug 25 2022 18:14:50)
+0008.700 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0008.701 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0008.705 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0008.706 (0) Looking for candidates to backup in: /home/dcalasan/public_html/digitel/wp-content/uploads
+0008.707 (0) finding files: 2022: adding to list (1)
+0008.708 (0) finding files: essential-addons-elementor: adding to list (2)
+0008.708 (0) finding files: elementor: adding to list (3)
+0008.709 (0) finding files: wpcf7_uploads: adding to list (4)
+0008.709 (0) finding files: wpo: adding to list (5)
+0008.710 (0) finding files: .htaccess: adding to list (6)
+0008.710 (0) finding files: wpo-plugins-tables-list.json: adding to list (7)
+0008.711 (0) finding files: spai: adding to list (8)
+0008.712 (0) finding files: ao_ccss: adding to list (9)
+0008.712 (0) finding files: woocommerce_uploads: adding to list (10)
+0008.713 (0) finding files: wc-logs: adding to list (11)
+0008.713 (0) finding files: woocommerce-placeholder.png: adding to list (12)
+0008.714 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (13)
+0008.715 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (14)
+0008.715 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (15)
+0008.716 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (16)
+0008.716 (0) finding files: mailpoet: adding to list (17)
+0008.717 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (18)
+0008.718 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (19)
+0008.718 (0) finding files: pum: adding to list (20)
+0008.719 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0008.755 (0) Total entities for the zip file: 29 directories, 199 files (0 skipped as non-modified), 12.2 MB
+0008.757 (0) Zip: backup_2022-09-16-1226_Digitel_fc78863208c9-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0008.900 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-uploads.zip.tmp: size is now: 9.70 MB
+0008.905 (0) Creating zip file manifest (backup_2022-09-16-1226_Digitel_fc78863208c9-uploads.zip.list-temp.tmp)
+0008.906 (0) Successfully created zip file manifest (size: 11370)
+0008.987 (0) Created uploads zip (0) - 9981.9 KB in 0.2 s (42281.3 KB/s) (sha1: 0b076674f1c6c91905ae216defc70c576dea9d63, sha256: f2330647a55b0b5a569c722e76623200743e8a04e781977fb64eac6c6bc479fa)
+0008.990 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0008.991 (0) No remote despatch: user chose no remote backup service
+0008.992 (0) Recording as successfully uploaded: backup_2022-09-16-1226_Digitel_fc78863208c9-uploads.zip
+0008.993 (0) Deleting zip manifest (backup_2022-09-16-1226_Digitel_fc78863208c9-uploads.zip.list.tmp)
+0008.995 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0008.996 (0) Number of backup sets in history: 3; groups (db): 1
+0008.997 (0) Examining (for databases) backup set with group_id=0, nonce=3f777cd1ce46, datestamp=1663080914 (Sep 13 2022 14:55:14)
+0008.997 (0) Examining (for databases) backup set with group_id=0, nonce=419366ab037a, datestamp=1662134291 (Sep 02 2022 15:58:11)
+0008.997 (0) Examining (for databases) backup set with group_id=0, nonce=578036189e69, datestamp=1661451290 (Aug 25 2022 18:14:50)
+0008.997 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0008.997 (0) Number of backup sets in history: 3; groups (files): 1
+0008.998 (0) Examining (for files) backup set with nonce=3f777cd1ce46, datestamp=1663080914 (Sep 13 2022 14:55:14)
+0008.998 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0008.999 (0) Examining (for files) backup set with nonce=419366ab037a, datestamp=1662134291 (Sep 02 2022 15:58:11)
+0008.999 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0008.999 (0) Examining (for files) backup set with nonce=578036189e69, datestamp=1661451290 (Aug 25 2022 18:14:50)
+0008.999 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0008.999 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0009.004 (0) Beginning backup of other directories found in the content directory (index: 0)
+0009.005 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0009.006 (0) Looking for candidates to backup in: /home/dcalasan/public_html/digitel/wp-content
+0009.006 (0) finding files: themes: skipping: this is the themes directory
+0009.007 (0) finding files: index.php: adding to list (1)
+0009.007 (0) finding files: uploads: skipping: this is the uploads directory
+0009.008 (0) finding files: upgrade: skipping: excluded by options
+0009.009 (0) finding files: ewww: adding to list (2)
+0009.009 (0) finding files: logs: adding to list (3)
+0009.010 (0) finding files: cache.old: adding to list (4)
+0009.011 (0) finding files: w3tc-config.old: adding to list (5)
+0009.011 (0) finding files: plugins: skipping: this is the plugins directory
+0009.012 (0) finding files: updraft: skipping: this is the updraft directory
+0009.047 (0) Total entities for the zip file: 21 directories, 58 files (0 skipped as non-modified), 1.4 MB
+0009.090 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-others.zip.tmp: size is now: 0.20 MB
+0009.093 (0) Creating zip file manifest (backup_2022-09-16-1226_Digitel_fc78863208c9-others.zip.list-temp.tmp)
+0009.095 (0) Successfully created zip file manifest (size: 5139)
+0009.100 (0) Created others zip (0) - 254 KB in 0.1 s (4590.3 KB/s) (sha1: e71ee2e3a532aed4f180f5ee697e8d807a827c10, sha256: 9b83de2c2d34571a64dd536defcbd60ce8a43879d43ca536150ff173d7381b8f)
+0009.102 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0009.103 (0) No remote despatch: user chose no remote backup service
+0009.104 (0) Recording as successfully uploaded: backup_2022-09-16-1226_Digitel_fc78863208c9-others.zip
+0009.106 (0) Deleting zip manifest (backup_2022-09-16-1226_Digitel_fc78863208c9-others.zip.list.tmp)
+0009.108 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0009.109 (0) Number of backup sets in history: 3; groups (db): 1
+0009.109 (0) Examining (for databases) backup set with group_id=0, nonce=3f777cd1ce46, datestamp=1663080914 (Sep 13 2022 14:55:14)
+0009.109 (0) Examining (for databases) backup set with group_id=0, nonce=419366ab037a, datestamp=1662134291 (Sep 02 2022 15:58:11)
+0009.109 (0) Examining (for databases) backup set with group_id=0, nonce=578036189e69, datestamp=1661451290 (Aug 25 2022 18:14:50)
+0009.109 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0009.110 (0) Number of backup sets in history: 3; groups (files): 1
+0009.111 (0) Examining (for files) backup set with nonce=3f777cd1ce46, datestamp=1663080914 (Sep 13 2022 14:55:14)
+0009.111 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0009.111 (0) Examining (for files) backup set with nonce=419366ab037a, datestamp=1662134291 (Sep 02 2022 15:58:11)
+0009.112 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0009.112 (0) Examining (for files) backup set with nonce=578036189e69, datestamp=1661451290 (Aug 25 2022 18:14:50)
+0009.112 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0009.112 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0009.119 (0) Saving backup status to database (elements: 8)
+0009.121 (0) No database backup (wp) - not part of this run
+0009.123 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-plugins.zip: plugins: This file has already been successfully uploaded
+0009.124 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-themes.zip: themes: This file has already been successfully uploaded
+0009.125 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-uploads.zip: uploads: This file has already been successfully uploaded
+0009.126 (0) backup_2022-09-16-1226_Digitel_fc78863208c9-others.zip: others: This file has already been successfully uploaded
+0009.127 (0) Saving backup history. Total backup size: 64.6 MB
+0009.129 (0) Resume backup (fc78863208c9, 0): finish run
+0009.130 (0) There were no more files that needed uploading
+0009.132 (0) Decremented the semaphore (f) by 1
+0009.133 (0) Semaphore (f) unlocked
+0009.133 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0009.136 (0) No email will be sent - this backup set was empty.
+0009.137 (0) The backup apparently succeeded and is now complete
