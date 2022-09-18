@@ -1,0 +1,8 @@
+2022-09-18T17:03:07+00:00 CRITICAL Unclosed '{' on line 247 in /home/dcalasan/public_html/projekat/wp-content/themes/astra-child/functions.php on line 251
+
+2022-09-18T17:03:29+00:00 CRITICAL Unclosed '{' on line 247 in /home/dcalasan/public_html/projekat/wp-content/themes/astra-child/functions.php on line 251
+
+2022-09-18T17:03:29+00:00 CRITICAL Unclosed '{' on line 247 in /home/dcalasan/public_html/projekat/wp-content/themes/astra-child/functions.php on line 251
+
+2022-09-18T17:04:24+00:00 CRITICAL syntax error, unexpected token ";" in /home/dcalasan/public_html/projekat/wp-content/themes/astra-child/functions.php on line 249
+
